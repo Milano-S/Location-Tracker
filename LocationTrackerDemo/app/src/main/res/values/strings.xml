@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocationTrackerDemo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_directions_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBz4VoRoZ-lxVORZdtPQa-0hFmD-QtNPkM
+    </string>
+    <string name="instruction_where_description">Where do you want to add a geofence?</string>
+    <string name="instruction_where_subtitle_description">Drag the map to set the location</string>
+    <string name="instruction_radius_description">Choose the radius</string>
+    <string name="instruction_message_description">Enter a Name</string>
+    <string name="marker_content_description">Marker</string>
+    <string name="radius_description">%1$s meters</string>
+    <string name="error_required">Required</string>
+    <string name="title_activity_directions" />
+
+</resources>
